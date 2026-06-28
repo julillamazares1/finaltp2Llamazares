@@ -10,7 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/julillamazares1/finaltp2Llamazares.git"
   },
   "keywords": [],
   "author": "",
